@@ -1722,7 +1722,7 @@
  }
 
  .exchange-reverse .exchange-info p {
-     margin-bottom: 183px;
+     /* margin-bottom: 183px;    */
  }
 
  .graph-wrap {
