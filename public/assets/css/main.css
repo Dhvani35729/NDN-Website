@@ -1764,8 +1764,8 @@ img {
 
 .exchange-reverse .macbook {
   float: left;
-  width: 75%;
-  margin: 0 0 0 -237px;
+  width: 60%;
+  margin: -60px 0 0 -55px;
 }
 
 .exchange-reverse .exchange-info {
@@ -4932,7 +4932,7 @@ iframe.full {
 
   .exchange-reverse .macbook {
     width: 104%;
-    margin: 0 0 0 -52px;
+    margin: 0 0 0 -12px;
   }
 
   .exchange-reverse .exchange-info {
