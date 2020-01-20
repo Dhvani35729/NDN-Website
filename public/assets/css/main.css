@@ -1759,7 +1759,7 @@ img {
 }
 
 .exchange-reverse {
-  margin-bottom: 0px;
+  margin-bottom: 100px;
 }
 
 .exchange-reverse .macbook {
@@ -2108,13 +2108,14 @@ img {
 }
 
 .mendal-number ul {
-  width: 960px;
+  display: inline-flex;
+  width: 1750px;
 }
 
 .mendal-number li {
   float: left;
-  width: 50%;
-  padding-right: 12%;
+  width: 60%;
+  padding-right: 8%;
   min-height: 170px;
   margin: 55px 0 7px;
 }
