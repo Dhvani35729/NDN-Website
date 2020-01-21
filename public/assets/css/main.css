@@ -1487,9 +1487,9 @@ img {
   margin-bottom: 12px;
 }
 
-.contact-wrap li span {
+.office-wrap li span {
   font-weight: 700;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   display: inline-block;
   width: 88px;
 }
