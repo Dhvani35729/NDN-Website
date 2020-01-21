@@ -1364,7 +1364,7 @@ img {
 .footer-wrap {
   background-color: #181c25;
   background-size: cover;
-  padding: 90px 0;
+  padding: 30px 0;
 }
 
 .footer-wrap .flogo {
@@ -2152,14 +2152,15 @@ img {
 }
 
 .mendal-brain {
-  padding: 88px 0 0;
+  padding: 80px 0 0;
 }
 
 .brain-img {
   float: left;
   position: relative;
-  width: 35%;
+  width: 46%;
   margin-left: 45px;
+  margin-top: 75px;
 }
 
 .brain-img img {
@@ -2186,7 +2187,7 @@ img {
 .brain-intro {
   float: right;
   width: 40%;
-  margin-top: 74px;
+  margin-top: 20px;
 }
 
 .brain-intro .tiny-heading {
